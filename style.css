@@ -1,0 +1,31 @@
+* {font-size: 20px;}
+*{text-decoration: none;}
+html { background-color: rgba(187, 33, 179, 0.568);background: url(https://w7.pngwing.com/pngs/800/969/png-transparent-purple-and-blue-color-microsoft-powerpoint-desktop-slide-show-background-purple-template-blue.png) repeat-y gold top left; }
+
+#header{color: rgb(230, 10, 21);}
+h3.style{color: #69e942;}
+#header_1 {color: coral;}
+p.style{background-color: blue;}
+p i {color:#0ad5f0
+     ;}     
+     p.example,b {font-size: 30px; font-weight: lighter;}
+     p#example:first-letter {color: white;}
+     p#example:first-line {color: rgb(247, 121, 4);}
+     .href {color: yellow;text-decoration:none;}
+     .href:visited {color: rgb(92, 35, 78);}
+     .href:hover {color: rgb(50, 241, 82);text-decoration:none;}
+     p:hover{ background-color: turquoise;}
+     .href:active{color: rgb(42, 6, 245);text-decoration:none;}
+     p:active{ color: rgb(241, 9, 183);} 
+     
+     p {text-indent: 1.1em;}
+#textStyles {
+    font-size: 1.1em; 
+    font-weight: normal;
+    font-family: Comic Sans MS sans-serif;
+    text-align: left;
+    text-transform: none;
+    letter-spacing: 10px;
+    line-height: 200px;
+
+}
